@@ -40,14 +40,24 @@ Each folder contains properly named `.cpp` files (like `01_selection_sort.cpp`, 
 
 | Step | Topic                         | Problems Done  | Status           |
 |------|-------------------------------|----------------|------------------|
-| 1    | Basics (TC, SC, Maths, Rec.)  | ✅ 31 / 31     | ✅ Completed    |
+| 1    | Basics (TC, SC, Maths, Rec.)  | ✅ 31 / 31     | ✅ Completed    | 
 | 2    | Sorting Techniques            | ✅ 7 / 7       | ✅ Completed    |
 | 3    | Arrays – Easy                 | ✅ 14 / 14     | ✅ Completed    |
-| 3    | Arrays – Medium               | 🔄 10 / 14     | 🔄 In Progress  |
+| 3    | Arrays – Medium               | 🔄 10 / 14     | ✅ Completed    |
 | 3    | Arrays – Hard                 | ⏳ 0 / 12      | ⏳ Coming Soon  |
-| 4    | Binary Search on 1D Arrays    | ⏳ 0 / 13      | ⏳ Coming Soon  |
+| 4    | Binary Search on 1D Arrays    | ⏳ 0 / 13      | 🔄 In Progress  |
 
 > 📌 I’m consistently updating this tracker after every batch of questions.
+
+---
+
+## 📅 Milestone Log
+
+| Date         | Milestone Reached                              |
+|--------------|------------------------------------------------|
+| 03 June 2025 | Started DSA Journey — Time & Space Complexity  |
+| 02 July 2025 | ✅ Completed Arrays – Easy                    |
+| 18 July 2025 | ✅ Completed Arrays – Medium                  |
 
 ---
 
