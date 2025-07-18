@@ -36,8 +36,6 @@ Each folder contains properly named `.cpp` files (like `01_selection_sort.cpp`, 
 
 ## ✅ Progress Tracker
 
-## ✅ Progress Tracker
-
 | Step | Topic                         | Problems Done  | Status           |
 |------|-------------------------------|----------------|------------------|
 | 1    | Basics (TC, SC, Maths, Rec.)  | ✅ 31 / 31     | ✅ Completed    | 
