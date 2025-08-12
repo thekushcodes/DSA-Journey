@@ -25,8 +25,8 @@ This repository contains all my C++ code and notes while following [Striver’s 
 📁 03-Sorting/
 📁 04-Arrays-Easy/
 📁 05-Arrays-Medium/
-📁 06-Arrays-Hard/ (upcoming)
-📁 07-Hashing/ (upcoming)
+📁 06-Arrays-Hard/
+📁 07-Strings/ (upcoming)
 ⋮ more folders coming soon
 
 
@@ -42,8 +42,12 @@ Each folder contains properly named `.cpp` files (like `01_selection_sort.cpp`, 
 | 2    | Sorting Techniques            | ✅ 7 / 7       | ✅ Completed    |
 | 3    | Arrays – Easy                 | ✅ 14 / 14     | ✅ Completed    |
 | 3    | Arrays – Medium               | ✅ 14 / 14     | ✅ Completed    |
-| 3    | Arrays – Hard                 | ⏳ 0 / 12      | ⏳ Coming Soon  |
-| 4    | Binary Search on 1D Arrays    | 🔄 0 / 13      | 🔄 In Progress  |
+| 3    | Arrays – Hard                 | 🔄 3 / 12      | 🔄 In Progress  |
+| 4    | Binary Search on 1D Arrays    | ✅ 13 / 13     | ✅ Completed    |
+| 4    | Binary Search on Answers      | ✅ 14 / 14     | ✅ Completed    |
+| 4    | Binary Search on 2D Arrays    | ✅ 5 / 5       | ✅ Completed    |
+| 5    | Strings(Basic and Easy)       | ⏳ 0 / 7       | ⏳ Coming Soon  |
+| 5    | Strings(Medium)               | ⏳ 0 / 8       | ⏳ Coming Soon  |
 
 > 📌 I’m consistently updating this tracker after every batch of questions.
 
@@ -56,6 +60,7 @@ Each folder contains properly named `.cpp` files (like `01_selection_sort.cpp`, 
 | 03 June 2025 | Started DSA Journey — Time & Space Complexity  |
 | 02 July 2025 | ✅ Completed Arrays – Easy                    |
 | 18 July 2025 | ✅ Completed Arrays – Medium                  |
+| 7 August 2025  | ✅ Completed entire Binary Search (Module - 4)|
 
 ---
 
