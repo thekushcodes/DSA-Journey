@@ -1,0 +1,5 @@
+Binary search on answers is just another way to implement binary search.
+
+The key points to remember, which tells us where to use Binary search (on answers) are:
+1-> If we know the range of the numbers; like in the program 01, we used binary search because the range of numbers was fixed,i.e., 1 to n.
+2-> If the questions asks for the min or max from the range; again from program 01, the question says "maximum integer whose square is less than given number", actually it asked to find the square root of the number, but it both means the same actually.
