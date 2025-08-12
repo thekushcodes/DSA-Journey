@@ -19,14 +19,22 @@ This repository contains all my C++ code and notes while following [Striver’s 
 
 ## 🗂 Folder Structure
 
-📁 00-Basics/
-📁 01-Maths/
-📁 02-Recursion/
-📁 03-Sorting/
-📁 04-Arrays-Easy/
-📁 05-Arrays-Medium/
-📁 06-Arrays-Hard/
-📁 07-Strings/ (upcoming)
+📁 01-Basics/  
+  📂 01-Patterns/  
+  📂 02-CppSTL/  
+  📂 03-Basic Maths/ 
+  📂 04-Recursion/
+  📂 05-Hashing
+📁 02-Sorting/
+📁 03-Arrays
+  📂 01-Easy
+  📂 02-Medium
+  📂 03-Hard
+📁 04-Binary Search/
+  📂 01-BS on 1D Arrays
+  📂 02-BS on Answers
+  📂 03_BS on 2D Arrays
+📁 05-Strings/ (upcoming)
 ⋮ more folders coming soon
 
 
@@ -55,12 +63,12 @@ Each folder contains properly named `.cpp` files (like `01_selection_sort.cpp`, 
 
 ## 📅 Milestone Log
 
-| Date         | Milestone Reached                              |
-|--------------|------------------------------------------------|
-| 03 June 2025 | Started DSA Journey — Time & Space Complexity  |
-| 02 July 2025 | ✅ Completed Arrays – Easy                    |
-| 18 July 2025 | ✅ Completed Arrays – Medium                  |
-| 7 August 2025  | ✅ Completed entire Binary Search (Module - 4)|
+| Date           | Milestone Reached                                |
+|----------------|--------------------------------------------------|
+| 03 June 2025   | Started DSA Journey — Time & Space Complexity    |
+| 02 July 2025   | ✅ Completed Arrays – Easy                      |
+| 18 July 2025   | ✅ Completed Arrays – Medium                    |
+| 7 August 2025  | ✅ Completed entire Binary Search (Module - 4)  |
 
 ---
 
